@@ -372,6 +372,18 @@
     "notes": "2027 届校招；岗位于 2026-07-31 发布；学历要求硕士/博士"
   },
   {
+    "id": "smartsens",
+    "company": "思特威",
+    "role": "模拟电路工程师",
+    "type": "校招",
+    "status": "已投递",
+    "date": "2026-08-10",
+    "progress": "已投递简历",
+    "location": "上海",
+    "website": "https://campus.smartsenstech.com/",
+    "notes": "2027 届校招；用户确认已完成投递"
+  },
+  {
     "id": "ymtc",
     "company": "长江存储",
     "role": "模拟电路设计",
