@@ -372,6 +372,18 @@
     "notes": "2027 届校招；岗位于 2026-07-31 发布；学历要求硕士/博士"
   },
   {
+    "id": "texas-instruments",
+    "company": "德州仪器",
+    "role": "模拟 IC 相关岗位",
+    "type": "校招",
+    "status": "待投递",
+    "date": "",
+    "progress": "简历已准备，待确认岗位后投递",
+    "location": "",
+    "website": "https://campus.51job.com/ti/web/start.htm",
+    "notes": "2027 届校招；具体岗位和工作地点待确认；手机端可通过“德州仪器芯招聘”公众号投递"
+  },
+  {
     "id": "smartsens",
     "company": "思特威",
     "role": "模拟电路工程师",
