@@ -420,6 +420,42 @@
     "notes": "2027 届校招；用户确认已完成投递"
   },
   {
+    "id": "silicon-integrated",
+    "company": "聚芯微电子",
+    "role": "模拟 IC 相关岗位（待补充）",
+    "type": "校招",
+    "status": "已投递",
+    "date": "2026-08-11",
+    "progress": "已投递简历",
+    "location": "",
+    "website": "https://www.si-in.com/",
+    "notes": "用户确认已完成投递；具体岗位和工作地点待补充"
+  },
+  {
+    "id": "galaxycore",
+    "company": "格科微",
+    "role": "模拟 IC 相关岗位（待补充）",
+    "type": "校招",
+    "status": "已投递",
+    "date": "2026-08-11",
+    "progress": "已投递简历",
+    "location": "",
+    "website": "https://www.gcoreinc.com/join/job",
+    "notes": "用户确认已完成投递；具体岗位和工作地点待补充"
+  },
+  {
+    "id": "cambricon",
+    "company": "寒武纪",
+    "role": "芯片研发相关岗位（待确认）",
+    "type": "校招",
+    "status": "待投递",
+    "date": "",
+    "progress": "简历已准备，待确认岗位后投递",
+    "location": "",
+    "website": "https://app.mokahr.com/campus-recruitment/cambricon/44201",
+    "notes": "官方校园招聘入口；具体岗位、批次和工作地点待确认"
+  },
+  {
     "id": "ymtc",
     "company": "长江存储",
     "role": "模拟电路设计",
