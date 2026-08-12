@@ -340,12 +340,36 @@
     "company": "升宇科技",
     "role": "模拟 IC 设计工程师",
     "type": "校招",
-    "status": "待投递",
-    "date": "",
-    "progress": "待确认岗位后投递",
+    "status": "已投递",
+    "date": "2026-08-12",
+    "progress": "已投递简历",
     "location": "北京",
     "website": "https://mp.weixin.qq.com/s/c6ybVk47TULMgVVrL2zZ8A",
-    "notes": "微信公众号招聘信息；岗位名称、批次和截止时间待打开页面确认"
+    "notes": "用户确认已完成投递；具体岗位信息待补充"
+  },
+  {
+    "id": "witmem",
+    "company": "知存科技",
+    "role": "模拟 IC 相关岗位（待补充）",
+    "type": "校招",
+    "status": "已投递",
+    "date": "2026-08-12",
+    "progress": "已投递简历",
+    "location": "",
+    "website": "https://www.witmem.com/jobs.php",
+    "notes": "用户确认已完成投递；具体岗位和工作地点待补充"
+  },
+  {
+    "id": "jingce-electronic",
+    "company": "精测电子",
+    "role": "芯片 / 硬件相关岗位（待确认）",
+    "type": "校招",
+    "status": "待投递",
+    "date": "",
+    "progress": "简历已准备，待用户自行投递",
+    "location": "",
+    "website": "https://jingce.zhiye.com/campus",
+    "notes": "已建立公司目录并准备标准命名简历；具体岗位和工作地点待确认"
   },
   {
     "id": "united-imaging",
