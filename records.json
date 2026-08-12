@@ -526,5 +526,17 @@
     "location": "上海",
     "website": "https://www.pangomicro.com/join_school/",
     "notes": "秋招提前批；面试通知来自邮件"
+  },
+  {
+    "id": "xpeng",
+    "company": "小鹏汽车",
+    "role": "芯片 / 硬件相关岗位（待确认）",
+    "type": "校招",
+    "status": "待投递",
+    "date": "",
+    "progress": "简历已准备，待用户自行投递",
+    "location": "",
+    "website": "https://www.xiaopeng.com/join.html",
+    "notes": "2027 届探索者计划；已建立公司目录并准备不含求职意向的标准命名简历；具体岗位和工作地点待确认"
   }
 ]
