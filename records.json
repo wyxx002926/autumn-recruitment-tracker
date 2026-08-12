@@ -562,5 +562,89 @@
     "location": "",
     "website": "https://www.phytium.com.cn/recruitment/",
     "notes": "2027 届提前批秋季校园招聘；用户确认已完成投递；具体岗位和工作地点待补充"
+  },
+  {
+    "id": "omnivision-group",
+    "company": "豪威集团",
+    "role": "模拟 IC 设计工程师",
+    "type": "校招",
+    "status": "待投递",
+    "date": "",
+    "progress": "简历已准备，待用户自行投递",
+    "location": "",
+    "website": "https://ovt-omnivision.zhiye.com/Campus",
+    "notes": "已建立公司目录并准备简历；具体岗位和工作地点待确认"
+  },
+  {
+    "id": "rockchip",
+    "company": "瑞芯微",
+    "role": "模拟 IC 相关岗位（待确认）",
+    "type": "校招",
+    "status": "待投递",
+    "date": "",
+    "progress": "简历已准备，待用户自行投递",
+    "location": "",
+    "website": "https://www.rock-chips.com/a/cn/jobs/xiaoyuanzhaopin/index.html",
+    "notes": "公司目录和简历已准备；具体岗位和工作地点待确认"
+  },
+  {
+    "id": "joywell",
+    "company": "集益威",
+    "role": "模拟 IC 相关岗位（待确认）",
+    "type": "校招",
+    "status": "待投递",
+    "date": "",
+    "progress": "简历已准备，待用户自行投递",
+    "location": "",
+    "website": "https://recruitment.joywellsemi.com/",
+    "notes": "公司目录和简历已准备；具体岗位和工作地点待确认"
+  },
+  {
+    "id": "akrostar",
+    "company": "芯耀辉",
+    "role": "模拟 IC 相关岗位（待确认）",
+    "type": "校招",
+    "status": "待投递",
+    "date": "",
+    "progress": "简历已准备，待用户自行投递",
+    "location": "",
+    "website": "https://www.akrostar-tech.com/jrwm",
+    "notes": "公司目录和简历已准备；具体岗位和工作地点待确认"
+  },
+  {
+    "id": "joulwatt",
+    "company": "杰华特",
+    "role": "模拟 IC 相关岗位（待确认）",
+    "type": "校招",
+    "status": "待投递",
+    "date": "",
+    "progress": "简历已准备，待用户自行投递",
+    "location": "",
+    "website": "https://joulwatt.zhiye.com/campus/jobs",
+    "notes": "公司目录和简历已准备；具体岗位和工作地点待确认"
+  },
+  {
+    "id": "telink",
+    "company": "泰凌微",
+    "role": "模拟 IC 相关岗位（待确认）",
+    "type": "校招",
+    "status": "待投递",
+    "date": "",
+    "progress": "简历已准备，待用户自行投递",
+    "location": "",
+    "website": "https://www.telink-semi.com/campus-recruitment",
+    "notes": "公司目录和简历已准备；具体岗位和工作地点待确认"
+  },
+  {
+    "id": "innosilicon",
+    "company": "芯动科技",
+    "role": "模拟 IC 相关岗位（待确认）",
+    "type": "校招",
+    "status": "待投递",
+    "date": "",
+    "progress": "简历已准备，待用户自行投递",
+    "location": "",
+    "website": "https://innosilicon.zhiye.com/home",
+    "notes": "公司目录和简历已准备；具体岗位和工作地点待确认"
   }
 ]
