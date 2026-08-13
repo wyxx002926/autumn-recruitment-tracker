@@ -646,5 +646,17 @@
     "location": "",
     "website": "https://innosilicon.zhiye.com/home",
     "notes": "公司目录和简历已准备；具体岗位和工作地点待确认"
+  },
+  {
+    "id": "fortior-tech",
+    "company": "峰岹科技",
+    "role": "芯片研发相关岗位（待确认）",
+    "type": "校招",
+    "status": "待投递",
+    "date": "",
+    "progress": "简历已准备，待用户自行投递",
+    "location": "",
+    "website": "https://www.fortiortech.com/en/join/list",
+    "notes": "2027 届校园招聘；公司目录和简历已准备；官网职位页可筛选校园招聘、IC Design 和工作地点"
   }
 ]
