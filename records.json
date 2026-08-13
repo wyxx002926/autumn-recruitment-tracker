@@ -658,5 +658,17 @@
     "location": "",
     "website": "https://www.fortiortech.com/en/join/list",
     "notes": "2027 届校园招聘；用户确认已完成投递；已按招聘方要求提交特殊命名简历及本科、硕士成绩单；具体岗位和工作地点待补充"
+  },
+  {
+    "id": "t-head",
+    "company": "平头哥",
+    "role": "芯片研发相关岗位（待确认）",
+    "type": "校招",
+    "status": "已投递",
+    "date": "2026-08-13",
+    "progress": "已投递简历",
+    "location": "",
+    "website": "",
+    "notes": "用户确认已完成投递；使用公司目录中的范壮志_清华大学.pdf；具体岗位、工作地点和招聘链接待补充"
   }
 ]
